@@ -18,14 +18,14 @@ Na janela que abrir na parte inferior do visual studio digite:
 add-migration CriandoBanco 
 (Eu usei "CriandoBanco", mas pode ser qualquer nome que desejar)
 
-Caso não ocorra nenhum problema no seu banco de dados, a mensagem "Build Succeeded" deverá ser exibida.
+Caso não ocorra nenhum problema, a mensagem "Build Succeeded" deverá ser exibida.
 
 Após isso serão criados os arquivos de Migration na pasta "Migration" da solução.
 
 Em seguida digite:
 update-database
 
-Se não houver erro, a tabela será criada no servidor e a mensagem "Build Succeeded" deverá ser exibida.
+Se não houver erros no seu banco de dados, a tabela será criada no servidor e a mensagem "Build Succeeded" deverá ser exibida.
 
 Forte abraço!
 Anderson Molina
