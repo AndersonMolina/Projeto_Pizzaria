@@ -11,7 +11,8 @@ Observações:
 1) Não esqueça de ajustar o arquivo appsettings.json da solução, alterando o nome do servidor e o nome da base de dados utilizando os dados do seu servidor.
 Esses dados estão no bloco ConnectionStrings.
 
-2) Não esqueça de fazer a Migration para que a tabela do projeto seja criada no seu banco de dados
+2) Não esqueça de fazer a Migration para que a tabela do projeto seja criada no seu banco de dados.
+
 Isso é feito através do próprio Visual Studio, no menu Ferramentas > Gerenciador de Pacote do Nuget > Console do Gerenciador de Pacotes.
 
 Na janela que abrir na parte inferior do visual studio digite:
