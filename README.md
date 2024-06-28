@@ -27,5 +27,5 @@ update-database
 
 Se não houver erro, a tabela será criada no servidor e a mensagem "Build Succeeded" deverá ser exibida.
 
-Forte abraços!
+Forte abraço!
 Anderson Molina
