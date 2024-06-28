@@ -1,0 +1,289 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pizzaria.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Pizzaria.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\imagens\\pizzacalabresa.jpg9df9117d-d598-4e54-9c91-19392bc39a8d.png",
+      "PackagePath": "staticwebassets\\imagens\\pizzacalabresa.jpg9df9117d-d598-4e54-9c91-19392bc39a8d.png"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\imagens\\pizzacalabresa.jpgafb984b6-cadd-4832-a258-9bd120004bba.png",
+      "PackagePath": "staticwebassets\\imagens\\pizzacalabresa.jpgafb984b6-cadd-4832-a258-9bd120004bba.png"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\imagens\\pizzacalabresa.jpgddd27a8e-a9ed-42bb-9c2a-3780291c0f57.png",
+      "PackagePath": "staticwebassets\\imagens\\pizzacalabresa.jpgddd27a8e-a9ed-42bb-9c2a-3780291c0f57.png"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\imagens\\pngegg.png6f9d6365-a424-4b1f-92ef-c78a7e4554c4.png",
+      "PackagePath": "staticwebassets\\imagens\\pngegg.png6f9d6365-a424-4b1f-92ef-c78a7e4554c4.png"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\imagens\\pngegg.png9b8040e2-947a-45ef-8f96-957d7b354bd9.png",
+      "PackagePath": "staticwebassets\\imagens\\pngegg.png9b8040e2-947a-45ef-8f96-957d7b354bd9.png"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ander\\Desktop\\Teste Core\\MVC\\Pizzaria\\Pizzaria\\Pizzaria\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pizzaria.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Pizzaria.props",
+      "PackagePath": "build\\Pizzaria.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Pizzaria.props",
+      "PackagePath": "buildMultiTargeting\\Pizzaria.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Pizzaria.props",
+      "PackagePath": "buildTransitive\\Pizzaria.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
